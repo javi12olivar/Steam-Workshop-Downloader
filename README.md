@@ -1,6 +1,8 @@
 Steam Workshop Downloader 
 
 A modern, lightweight, and open-source desktop application designed to easily download mods from the Steam Workshop without needing to own the games on Steam or deal with command-line tools.
+<img width="655" height="638" alt="image" src="https://github.com/user-attachments/assets/ff160057-9bea-4dfa-b095-62f4a99d531d" />
+
  
  Key Features:
  
